@@ -1,8 +1,8 @@
-# RSK Pettycash Manager
+# SARAVANAN Pettycash Manager
 
-The RSK Pettycash Manager is a web-based application designed to help individuals or small businesses manage their petty cash transactions efficiently. The application provides tools for tracking expenses, managing capital, and maintaining financial records.
+The SARAVANAN Pettycash Manager is a web-based application designed to help individuals or small businesses manage their petty cash transactions efficiently. The application provides tools for tracking expenses, managing capital, and maintaining financial records.
 
-<img src="../public/images/Screenshot.png"/>
+<img src="../public/images/Screenshot 2024-06-03 130610.png"/>
 
 ## Features
 
@@ -216,8 +216,8 @@ To run the application locally:
 
 ## Deployment
 
-The frontend is deployed on Netlify, and users can access the live application through [RSK Pettycash Manager](https://rsk-pettycash-manager.netlify.app/).
+The frontend is deployed on Netlify, and users can access the live application through [SARAVANAN Pettycash Manager](https://rsk-pettycash-manager.netlify.app/).
 
 ## Author
 
-- **Shanmugam R.** - [GitHub](https://github.com/Shanmugamrskfamily)
+- **SARAVANAN.** - [GitHub](https://github.com/saravanankandasamyGKS/pettycash-manager-frontend)
